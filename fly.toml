@@ -1,4 +1,4 @@
-app = "afk-poc-56c7"
+app = "afk-poc"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = [ ]
